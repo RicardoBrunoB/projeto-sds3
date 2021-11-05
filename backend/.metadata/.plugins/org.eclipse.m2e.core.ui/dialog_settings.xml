@@ -3,7 +3,6 @@
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
 			<item value="C:\workspaces\ws-sds3\backend"/>
-			<item value="C:\workspaces\ws-sds3\Projeto SDS3\backend"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
