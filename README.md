@@ -1,7 +1,7 @@
 # projeto-sds3
-Este projeto, nomeado como DS Vendas, foi elaborado durante a Semana DevSuperior 3 orientado pelo professor Nelio Alves da escola DevSuperior.
-
 [![NPM](https://img.shields.io/npm/l/java)](https://github.com/RicardoBrunoB/projeto-sds3/blob/master/LICENSE)
+
+Este projeto, nomeado como DS Vendas, foi elaborado durante a Semana DevSuperior 3 orientado pelo professor Nelio Alves da escola DevSuperior.
 
 # Finalidade do projeto
 Envolve um dashboard que exibe informações gráficas sobre as taxas de sucesso e quantidade de vendas de cada vendedor cadastrado no sistema. 
